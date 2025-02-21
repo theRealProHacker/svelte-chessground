@@ -356,8 +356,9 @@
 <div class="cg-wrap {className}" bind:this={container}></div>
 
 <style>
-	.cg-wrap {
-		width:100%;
-		aspect-ratio:1;
-	}
+
+ .cg-wrap {
+    width: 100%;
+    aspect-ratio: 1;
+  }
 </style>
